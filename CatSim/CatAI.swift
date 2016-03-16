@@ -19,7 +19,7 @@ class CatAI {
     private var catHunger: Int16 = 5
     private var catBored: Int16 = 5
     private var catTired: Int16 = 5
-    var onTheMind: viewable?
+    var onTheMind: viewable? 
     
     init(hostCat: GameCat) {
         self.hostCat = hostCat
